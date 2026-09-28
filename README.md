@@ -14,7 +14,7 @@ Aplicação web desenvolvida para otimizar o controle, registro e gerenciamento 
 ## 💻 Tecnologias Utilizadas
 
 * **Front-end:** HTML5, CSS3, JavaScript (ES6+)
-* **Dados/Integração:** [Substitua aqui: informe se os dados são salvos no LocalStorage do navegador, ou se o front-end consome a API do seu TCC em Node.js/Prisma]
+* **Back-end / API:** Consumo de API RESTful desenvolvida no TCC utilizando Node.js e Prisma ORM
 * **Deploy:** GitHub Pages
 
 ## 🚀 Como executar o projeto localmente
